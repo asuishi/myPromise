@@ -1,0 +1,22 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "promise",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asuishi/myPromise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asuishi/myPromise/issues"
+  },
+  "homepage": "https://github.com/asuishi/myPromise#readme"
+}
